@@ -4,17 +4,28 @@ DNS Subdomain Enumeration Tool (Educational Project)
 This tool was developed to understand how DNS-based subdomain enumeration works using Python and the dnspython library, including how wildcard DNS can affect reconnaissance results.
 
 Features:
+
 Wordlist-based subdomain brute force enumeration
+
 DNS A record resolution
+
 Automatic wildcard DNS detection
+
 False positive filtering caused by wildcard DNS
+
 Identification of valid and reachable subdomains
 
+
 What this project demonstrates:
+
 DNS reconnaissance techniques used during the recon phase
+
 Understanding of DNS resolution and wildcard behavior
+
 Attack surface mapping through subdomain discovery
+
 Why wildcard DNS can break naive enumeration tools
+
 
 How it works:
 A random subdomain is generated to test wildcard DNS behavior
