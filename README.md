@@ -1,4 +1,4 @@
-# Subdomain-Enumerator 🇺🇸🇺🇸
+# Subdomain-Enumerator 🇺🇸
 
 ## DNS Subdomain Enumeration Tool (Educational Project)
 
@@ -68,7 +68,7 @@ python3 enumerador_subdominios.py
 ---
 
 
-# Ferramenta de Enumeração de Subdomínios DNS (Projeto Educacional) 🇧🇷🇧🇷
+# Ferramenta de Enumeração de Subdomínios DNS (Projeto Educacional) 🇧🇷
 
 
 Esta ferramenta foi desenvolvida com o objetivo de entender, na prática, como funciona a enumeração de subdomínios via DNS utilizando Python e a biblioteca **dnspython**, incluindo o impacto do **wildcard DNS** durante a fase de reconhecimento.
