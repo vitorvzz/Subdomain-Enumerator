@@ -49,14 +49,22 @@ This tool was developed to understand how DNS-based subdomain enumeration works 
 
 ---
 
+### Installation
+```bash
+pip install dnspython
+```
+
+### Run the tool using the command:
+```bash
+python3 enumerador_subdominios.py
+```
+---
+
 ## Disclaimer:
 - Educational use only.
 - Developed and tested exclusively in authorized lab environments.
-
-
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
+- 
+---
 
 
 # Ferramenta de Enumeração de Subdomínios DNS (Projeto Educacional)
@@ -105,11 +113,13 @@ Esta ferramenta foi desenvolvida com o objetivo de entender, na prática, como f
 ### Instalação
 ```bash
 pip install dnspython
+```
 
-
-Execute a ferramenta com o comando:
-
+### Execute a ferramenta com o comando:
+```bash
 python3 enumerador_subdominios.py
+```
+
 
 
 
