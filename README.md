@@ -90,6 +90,14 @@ Esta ferramenta foi desenvolvida com o objetivo de entender, na prática, como f
 
 ---
 
+## Aviso Legal:
+- Este projeto é destinado exclusivamente para fins educacionais.
+- Utilize apenas em sistemas próprios ou com autorização explícita
+- O autor não se responsabiliza por uso indevido
+- Testes realizados apenas em ambientes de laboratório controlados
+
+---
+
 ## Requisitos
 - Python **3.x**  
 - Biblioteca **dnspython**
@@ -99,11 +107,11 @@ Esta ferramenta foi desenvolvida com o objetivo de entender, na prática, como f
 pip install dnspython
 
 
----
+Execute a ferramenta com o comando:
 
-Aviso Legal:
-Este projeto é destinado exclusivamente para fins educacionais.
-Utilize apenas em sistemas próprios ou com autorização explícita
-O autor não se responsabiliza por uso indevido
-Testes realizados apenas em ambientes de laboratório controlados
+python3 enumerador_subdominios.py
+
+
+
+
 
