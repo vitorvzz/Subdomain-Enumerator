@@ -100,11 +100,10 @@ Esta ferramenta foi desenvolvida com o objetivo de entender, na prática, como f
 
 ---
 
-## Aviso Legal:
-- Este projeto é destinado exclusivamente para fins educacionais.
-- Utilize apenas em sistemas próprios ou com autorização explícita
-- O autor não se responsabiliza por uso indevido
-- Testes realizados apenas em ambientes de laboratório controlados
+## Limitações
+- Resolve apenas registros DNS do tipo A
+- Não possui otimizações de desempenho (ex: multi-threading)
+- Desenvolvida exclusivamente para fins educacionais
 
 ---
 
@@ -122,6 +121,11 @@ pip install dnspython
 python3 enumerador_subdominios.py
 ```
 
+## Aviso Legal:
+- Este projeto é destinado exclusivamente para fins educacionais.
+- Utilize apenas em sistemas próprios ou com autorização explícita
+- O autor não se responsabiliza por uso indevido
+- Testes realizados apenas em ambientes de laboratório controlados
 
 
 
